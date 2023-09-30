@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color:  #f8f7f5;
+}
+header{
+    margin: 20px;
+    padding: 5px;
+    max-width: 40%;
+    height:300px;
+    background-color: #C7AF93;
+    border-radius: 20px;
+    display: flex;
+   
+}
+header > p{
+    margin-left: 20px;
+    max-height: 100%;
+    background-color:#C7AF93;
+    display: flex;
+    justify-self: start;
+    align-self: center;
+    
+} 
+
+header > .img-vhanges{   
+    height: 150px;
+
+}
